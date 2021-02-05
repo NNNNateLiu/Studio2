@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 104.8
-    y: 116
+    x: 164
+    y: 98.4
     width: 1242.4
     height: 700.8
   m_ShowMode: 4
@@ -71,7 +71,11 @@ MonoBehaviour:
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 60
+=======
+  controlID: 17
+>>>>>>> main
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,7 +246,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 85
+=======
+  controlID: 69
+>>>>>>> main
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,7 +275,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 86
+=======
+  controlID: 43
+>>>>>>> main
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,8 +419,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 104.8
-    y: 526.4
+    x: 164
+    y: 508.80002
     width: 965
     height: 250
   m_ViewDataDictionary: {fileID: 0}
@@ -436,9 +448,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 12350000
     m_LastClickedID: 13586
     m_ExpandedIDs: 00000000123500001635000000ca9a3b
+=======
+    m_SelectedIDs: 4a350000
+    m_LastClickedID: 13642
+    m_ExpandedIDs: 000000004835000000ca9a3b
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -543,8 +561,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1071.2001
-    y: 146.40001
+    x: 1130.4
+    y: 128.8
     width: 275
     height: 630
   m_ViewDataDictionary: {fileID: 0}
@@ -581,17 +599,23 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 104.8
-    y: 146.40001
+    x: 164
+    y: 128.8
     width: 242
     height: 359
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 1a350000
       m_LastClickedID: 0
       m_ExpandedIDs: 3efbffff
+=======
+      m_SelectedIDs: 5c350000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 04fbffff
+>>>>>>> main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -636,8 +660,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 348
-    y: 146.40001
+    x: 407.2
+    y: 128.8
     width: 721
     height: 359
   m_ViewDataDictionary: {fileID: 0}
