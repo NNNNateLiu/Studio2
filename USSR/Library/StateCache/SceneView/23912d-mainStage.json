@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-4.784381866455078,"y":5.455269813537598,"z":3.3861083984375},"rotation":{"x":-0.046758297830820087,"y":0.8565444946289063,"z":-0.07886075228452683,"w":-0.5078644156455994},"size":10.449999809265137,"orthographic":false}
+=======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":105.32826232910156,"y":-17.134567260742189,"z":-37.59687042236328},"rotation":{"x":-0.022934772074222566,"y":0.9728005528450012,"z":0.2024586945772171,"w":0.11020049452781677},"size":81.14642333984375,"orthographic":false}
+>>>>>>> Yuanfan
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":105.32826232910156,"y":-17.134567260742189,"z":-37.59687042236328},"rotation":{"x":-0.022934772074222566,"y":0.9728005528450012,"z":0.2024586945772171,"w":0.11020049452781677},"size":81.14642333984375,"orthographic":false}
+>>>>>>> main
