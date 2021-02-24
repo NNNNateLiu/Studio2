@@ -18,7 +18,7 @@ public class EleTrace : MonoBehaviour
         
          transform.Translate(Up*Time.deltaTime,Space.World);
     }
-    if(Input.GetMouseButtonUp(0)){
+    if(Input.GetMouseButtonDown(0)){
         
          transform.Rotate(0.0f, 0.0f, 90.0f, Space.Self);
     }

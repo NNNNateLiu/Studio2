@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EleRotate : MonoBehaviour
 { public bool isActive;
+ 
     // Start is called before the first frame update
     void Start()
     {
@@ -16,9 +17,12 @@ public class EleRotate : MonoBehaviour
          if(isActive==true){
             
            GameObject.Find("Player").GetComponent<Gravity>().enabled=true;
-        }
+           if(Input.GetMouseButtonDown(0)){
+           GameObject.Find("Ele").GetComponent<EleTrace>().enabled=true;
+        }}
         else{
             GameObject.Find("Player").GetComponent<Gravity>().enabled=false;
+            GameObject.Find("Ele").GetComponent<EleTrace>().enabled=false;
         }
     }
 
